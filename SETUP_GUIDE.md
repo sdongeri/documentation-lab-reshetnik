@@ -7,7 +7,7 @@
 
 ## Запуск проєкту (макет)
 1. Клонувати репозиторій:
-   git clone https://github.com/username/documentation-lab-<прізвище>
+   git clone https://github.com/username/documentation-lab-reshetnik
 2. Відкрити папку проєкту.
 3. Запустити файл `index.html` у браузері
    або перейти за посиланням на хостинг.
